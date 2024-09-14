@@ -7,4 +7,4 @@ https://portal.azure.com/
 
 In the server and DB at create, add the rule of fireall for access firewall   
 
--- composer require vlucas/phpdotenv  para proteger credenciales  
+-- composer require vlucas/phpdotenv for protected credentials  
